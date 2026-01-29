@@ -1,0 +1,524 @@
+{
+  "English": {
+    "nav": {
+      "signIn": "Sign In"
+    },
+    "hero": {
+      "title": "Watch unlimited series, movies, shows and more",
+      "subtitle": "Starts at ₹99. Cancel at any time.",
+      "cta": "Interested to watch? Enter your email to create or restart your membership.",
+      "emailPlaceholder": "Enter your email",
+      "getStarted": "Get Started"
+    },
+    "carousel": {
+      "heading": "Currently Trending"
+    },
+    "features": {
+      "heading": "More reasons to join",
+      "feature1Title": "Stream on your TV",
+      "feature1Desc": "Enjoy shows on Smart TVs, gaming consoles, Chromecast, Apple TV, and more devices.",
+      "feature2Title": "Save shows for offline viewing",
+      "feature2Desc": "Download episodes to your device and never run out of things to binge.",
+      "feature3Title": "Watch on any screen",
+      "feature3Desc": "Access your favorite content on mobile, tablet, desktop, or smart TV.",
+      "feature4Title": "Kid-friendly profiles",
+      "feature4Desc": "Let kids explore fun worlds with custom spaces built just for them — included for free with your membership."
+    },
+    "faq": {
+      "heading": "Frequently Asked Questions",
+      "q1": "What is Cinezy?",
+      "a1p1": "Cinezy is a streaming platform where you can explore a wide collection of top-rated web series, movies, documentaries, and more across all your devices.",
+      "a1p2": "You're free to binge-watch anytime, with zero ads and no interruptions — and we keep adding fresh content regularly, so there's always something to enjoy!",
+      "q2": "How much does Cinezy cost?",
+      "a2": "Cinezy is available on smartphones, tablets, laptops, and smart TVs — all for one consistent monthly fee. Plans start as low as ₹99/month, with no hidden fees or binding contracts.",
+      "q3": "Where can I watch?",
+      "a3p1": "Watch wherever you are, whenever you want. Just log in through your browser or supported device to start watching instantly — whether on your laptop, TV, tablet, or phone.",
+      "a3p2": "You can also save shows for offline viewing with our Android and iOS apps — so your entertainment travels with you, even without Wi-Fi.",
+      "q4": "How do I cancel?",
+      "a4": "Cinezy gives you full freedom. Cancel, pause, or restart anytime directly from your account — no penalties, no lock-ins, no hassle. It only takes a couple of clicks to make changes whenever you want.",
+      "q5": "What can I watch on Cinezy?",
+      "a5": "From drama to thrillers, anime to originals — Cinezy offers a rich library of entertainment across every genre and mood. You can stream as much as you like, whenever you like, with no daily limits.",
+      "q6": "Is Cinezy safe for kids?",
+      "a6p1": "Yes — Cinezy includes a dedicated space just for kids with handpicked, family-friendly content.",
+      "a6p2": "You can also create secure profiles with parental controls and PIN-protected settings to manage what your kids can access or block.",
+      "ctaText": "Interested to watch? Enter your email to create or restart your membership."
+    },
+    "footer": {
+      "queries": "Any Queries? Call",
+      "links": {
+        "faq": "FAQ",
+        "supportHub": "Support Hub",
+        "dataProtection": "Data Protection",
+        "networkCheck": "Network Check",
+        "assistanceZone": "Assistance Zone",
+        "opportunities": "Opportunities",
+        "privacySettings": "Privacy Settings",
+        "policyDocuments": "Policy Documents",
+        "userProfile": "User Profile",
+        "viewingOptions": "Viewing Options",
+        "companyDetails": "Company Details",
+        "exclusiveContent": "Exclusive Content",
+        "pressRoom": "Press Room",
+        "usageGuidelines": "Usage Guidelines",
+        "contactUs": "Contact Us"
+      },
+      "cinezy": "Cinezy India",
+      "recaptcha": "This page is protected by Google reCAPTCHA to ensure you're not a bot.",
+      "learnMore": "Learn More."
+    },
+    "auth": {
+      "signInTitle": "Sign In",
+      "signUpTitle": "Sign Up",
+      "emailPlaceholder": "Email or mobile number",
+      "passwordPlaceholder": "Password",
+      "confirmPasswordPlaceholder": "Confirm Password",
+      "namePlaceholder": "Name",
+      "signInButton": "Sign In",
+      "signUpButton": "Sign Up",
+      "or": "OR",
+      "useSignInCode": "Use a sign-in code",
+      "forgotPassword": "Forgot password?",
+      "newToCinezy": "New to Cinezy?",
+      "signUpNow": "Sign up now.",
+      "alreadyHaveAccount": "Already have an account?",
+      "signInLink": "Sign in",
+      "recaptchaInfo": "This page is protected by Google reCAPTCHA to ensure you're not a bot.",
+      "learnMore": "Learn more."
+    }
+  },
+  "हिन्दी": {
+    "nav": {
+      "signIn": "साइन इन करें"
+    },
+    "hero": {
+      "title": "असीमित सीरीज़, फ़िल्में, शो और बहुत कुछ देखें",
+      "subtitle": "₹99 से शुरू। किसी भी समय रद्द करें।",
+      "cta": "देखने में रुचि है? अपनी सदस्यता बनाने या पुनः शुरू करने के लिए अपना ईमेल दर्ज करें।",
+      "emailPlaceholder": "अपना ईमेल दर्ज करें",
+      "getStarted": "शुरू करें"
+    },
+    "carousel": {
+      "heading": "वर्तमान में ट्रेंडिंग"
+    },
+    "features": {
+      "heading": "शामिल होने के और कारण",
+      "feature1Title": "अपने टीवी पर स्ट्रीम करें",
+      "feature1Desc": "स्मार्ट टीवी, गेमिंग कंसोल, Chromecast, Apple TV और अधिक उपकरणों पर शो का आनंद लें।",
+      "feature2Title": "ऑफ़लाइन देखने के लिए शो सहेजें",
+      "feature2Desc": "अपने डिवाइस पर एपिसोड डाउनलोड करें और देखने के लिए चीज़ों की कमी कभी न हो।",
+      "feature3Title": "किसी भी स्क्रीन पर देखें",
+      "feature3Desc": "मोबाइल, टैबलेट, डेस्कटॉप या स्मार्ट टीवी पर अपनी पसंदीदा सामग्री तक पहुंचें।",
+      "feature4Title": "बच्चों के अनुकूल प्रोफाइल",
+      "feature4Desc": "बच्चों को मज़ेदार दुनिया का पता लगाने दें जो उनके लिए विशेष रूप से बनाई गई हैं — आपकी सदस्यता के साथ मुफ्त में शामिल।"
+    },
+    "faq": {
+      "heading": "अक्सर पूछे जाने वाले प्रश्न",
+      "q1": "Cinezy क्या है?",
+      "a1p1": "Cinezy एक स्ट्रीमिंग प्लेटफॉर्म है जहां आप अपने सभी उपकरणों पर शीर्ष-रेटेड वेब सीरीज़, फिल्में, वृत्तचित्र और बहुत कुछ का विस्तृत संग्रह देख सकते हैं।",
+      "a1p2": "आप किसी भी समय देख सकते हैं, बिना किसी विज्ञापन और रुकावट के — और हम नियमित रूप से नई सामग्री जोड़ते रहते हैं, इसलिए हमेशा कुछ न कुछ देखने को मिलता है!",
+      "q2": "Cinezy की कीमत कितनी है?",
+      "a2": "Cinezy स्मार्टफोन, टैबलेट, लैपटॉप और स्मार्ट टीवी पर उपलब्ध है — सभी एक सुसंगत मासिक शुल्क के लिए। योजनाएं ₹99/माह से शुरू होती हैं, बिना किसी छिपे हुए शुल्क या बाध्यकारी अनुबंध के।",
+      "q3": "मैं कहां देख सकता हूं?",
+      "a3p1": "जहां कहीं भी आप हैं, जब भी चाहें देखें। अपने ब्राउज़र या समर्थित डिवाइस के माध्यम से लॉग इन करें और तुरंत देखना शुरू करें — चाहे आपका लैपटॉप, टीवी, टैबलेट या फोन हो।",
+      "a3p2": "आप हमारे Android और iOS ऐप्स के साथ ऑफ़लाइन देखने के लिए शो भी सहेज सकते हैं — इसलिए आपका मनोरंजन आपके साथ यात्रा करता है, बिना Wi-Fi के भी।",
+      "q4": "मैं कैसे रद्द करूं?",
+      "a4": "Cinezy आपको पूर्ण स्वतंत्रता देता है। किसी भी समय अपने खाते से सीधे रद्द करें, रोकें या पुनः आरंभ करें — कोई जुर्माना नहीं, कोई लॉक-इन नहीं, कोई परेशानी नहीं। जब भी आप चाहें परिवर्तन करने में केवल कुछ क्लिक लगते हैं।",
+      "q5": "मैं Cinezy पर क्या देख सकता हूं?",
+      "a5": "नाटक से लेकर थ्रिलर तक, एनीमे से लेकर मूल तक — Cinezy हर शैली और मूड में मनोरंजन की एक समृद्ध लाइब्रेरी प्रदान करता है। आप जितना चाहें उतना स्ट्रीम कर सकते हैं, जब भी चाहें, बिना किसी दैनिक सीमा के।",
+      "q6": "क्या Cinezy बच्चों के लिए सुरक्षित है?",
+      "a6p1": "हां — Cinezy में बच्चों के लिए एक समर्पित स्थान शामिल है जिसमें हाथ से चुनी गई, परिवार-अनुकूल सामग्री है।",
+      "a6p2": "आप पैरेंटल कंट्रोल और पिन-सुरक्षित सेटिंग्स के साथ सुरक्षित प्रोफाइल भी बना सकते हैं ताकि आपके बच्चे क्या एक्सेस कर सकते हैं या ब्लॉक कर सकते हैं।",
+      "ctaText": "देखने में रुचि है? अपनी सदस्यता बनाने या पुनः शुरू करने के लिए अपना ईमेल दर्ज करें।"
+    },
+    "footer": {
+      "queries": "कोई प्रश्न? कॉल करें",
+      "links": {
+        "faq": "सामान्य प्रश्न",
+        "supportHub": "सहायता केंद्र",
+        "dataProtection": "डेटा सुरक्षा",
+        "networkCheck": "नेटवर्क जांच",
+        "assistanceZone": "सहायता क्षेत्र",
+        "opportunities": "अवसर",
+        "privacySettings": "गोपनीयता सेटिंग्स",
+        "policyDocuments": "नीति दस्तावेज़",
+        "userProfile": "उपयोगकर्ता प्रोफ़ाइल",
+        "viewingOptions": "देखने के विकल्प",
+        "companyDetails": "कंपनी विवरण",
+        "exclusiveContent": "विशेष सामग्री",
+        "pressRoom": "प्रेस रूम",
+        "usageGuidelines": "उपयोग दिशानिर्देश",
+        "contactUs": "हमसे संपर्क करें"
+      },
+      "cinezy": "Cinezy इंडिया",
+      "recaptcha": "यह पृष्ठ Google reCAPTCHA द्वारा सुरक्षित है ताकि यह सुनिश्चित किया जा सके कि आप बॉट नहीं हैं।",
+      "learnMore": "और जानें।"
+    },
+    "auth": {
+      "signInTitle": "साइन इन करें",
+      "signUpTitle": "साइन अप करें",
+      "emailPlaceholder": "ईमेल या मोबाइल नंबर",
+      "passwordPlaceholder": "पासवर्ड",
+      "confirmPasswordPlaceholder": "पासवर्ड की पुष्टि करें",
+      "namePlaceholder": "नाम",
+      "signInButton": "साइन इन करें",
+      "signUpButton": "साइन अप करें",
+      "or": "या",
+      "useSignInCode": "साइन-इन कोड का उपयोग करें",
+      "forgotPassword": "पासवर्ड भूल गए?",
+      "newToCinezy": "Cinezy पर नए हैं?",
+      "signUpNow": "अभी साइन अप करें।",
+      "alreadyHaveAccount": "पहले से खाता है?",
+      "signInLink": "साइन इन करें",
+      "recaptchaInfo": "यह पृष्ठ Google reCAPTCHA द्वारा सुरक्षित है ताकि यह सुनिश्चित किया जा सके कि आप बॉट नहीं हैं।",
+      "learnMore": "और जानें।"
+    }
+  },
+  "বাংলা": {
+    "nav": {
+      "signIn": "সাইন ইন করুন"
+    },
+    "hero": {
+      "title": "সীমাহীন সিরিজ, চলচ্চিত্র, শো এবং আরও অনেক কিছু দেখুন",
+      "subtitle": "₹99 থেকে শুরু। যেকোনো সময় বাতিল করুন।",
+      "cta": "দেখতে আগ্রহী? আপনার সদস্যপদ তৈরি বা পুনরায় শুরু করতে আপনার ইমেল লিখুন।",
+      "emailPlaceholder": "আপনার ইমেল লিখুন",
+      "getStarted": "শুরু করুন"
+    },
+    "carousel": {
+      "heading": "বর্তমানে ট্রেন্ডিং"
+    },
+    "features": {
+      "heading": "যোগদানের আরও কারণ",
+      "feature1Title": "আপনার টিভিতে স্ট্রিম করুন",
+      "feature1Desc": "স্মার্ট টিভি, গেমিং কনসোল, Chromecast, Apple TV এবং আরও ডিভাইসে শো উপভোগ করুন।",
+      "feature2Title": "অফলাইন দেখার জন্য শো সংরক্ষণ করুন",
+      "feature2Desc": "আপনার ডিভাইসে এপিসোড ডাউনলোড করুন এবং দেখার জন্য কখনও জিনিসের অভাব হবে না।",
+      "feature3Title": "যেকোনো স্ক্রিনে দেখুন",
+      "feature3Desc": "মোবাইল, ট্যাবলেট, ডেস্কটপ বা স্মার্ট টিভিতে আপনার প্রিয় সামগ্রী অ্যাক্সেস করুন।",
+      "feature4Title": "শিশু-বান্ধব প্রোফাইল",
+      "feature4Desc": "শিশুদের মজাদার জগত অন্বেষণ করতে দিন যা তাদের জন্য বিশেষভাবে তৈরি — আপনার সদস্যপদের সাথে বিনামূল্যে অন্তর্ভুক্ত।"
+    },
+    "faq": {
+      "heading": "প্রায়শই জিজ্ঞাসিত প্রশ্নাবলী",
+      "q1": "Cinezy কি?",
+      "a1p1": "Cinezy একটি স্ট্রিমিং প্ল্যাটফর্ম যেখানে আপনি আপনার সমস্ত ডিভাইসে শীর্ষ রেটেড ওয়েব সিরিজ, চলচ্চিত্র, ডকুমেন্টারি এবং আরও অনেক কিছুর বিস্তৃত সংগ্রহ অন্বেষণ করতে পারেন।",
+      "a1p2": "আপনি যেকোনো সময় দেখতে পারেন, কোনো বিজ্ঞাপন এবং বাধা ছাড়াই — এবং আমরা নিয়মিত নতুন সামগ্রী যোগ করি, তাই সবসময় কিছু না কিছু উপভোগ করার আছে!",
+      "q2": "Cinezy এর দাম কত?",
+      "a2": "Cinezy স্মার্টফোন, ট্যাবলেট, ল্যাপটপ এবং স্মার্ট টিভিতে উপলব্ধ — সবই একটি সামঞ্জস্যপূর্ণ মাসিক ফিতে। পরিকল্পনা ₹99/মাস থেকে শুরু হয়, কোনো লুকানো ফি বা বাধ্যতামূলক চুক্তি ছাড়াই।",
+      "q3": "আমি কোথায় দেখতে পারি?",
+      "a3p1": "যেখানেই থাকুন, যখনই চান দেখুন। আপনার ব্রাউজার বা সমর্থিত ডিভাইসের মাধ্যমে লগ ইন করুন এবং তাৎক্ষণিক দেখা শুরু করুন — আপনার ল্যাপটপ, টিভি, ট্যাবলেট বা ফোন যাই হোক।",
+      "a3p2": "আপনি আমাদের Android এবং iOS অ্যাপ দিয়ে অফলাইনে দেখার জন্য শো সংরক্ষণও করতে পারেন — তাই আপনার বিনোদন আপনার সাথে ভ্রমণ করে, এমনকি Wi-Fi ছাড়াও।",
+      "q4": "আমি কিভাবে বাতিল করব?",
+      "a4": "Cinezy আপনাকে সম্পূর্ণ স্বাধীনতা দেয়। যেকোনো সময় আপনার অ্যাকাউন্ট থেকে সরাসরি বাতিল করুন, বিরতি দিন বা পুনরায় শুরু করুন — কোনো জরিমানা নেই, কোনো লক-ইন নেই, কোনো ঝামেলা নেই। যখনই চান পরিবর্তন করতে মাত্র কয়েকটি ক্লিক লাগে।",
+      "q5": "আমি Cinezy তে কি দেখতে পারি?",
+      "a5": "নাটক থেকে থ্রিলার, অ্যানিমে থেকে মূল — Cinezy প্রতিটি ঘরানা এবং মেজাজে বিনোদনের একটি সমৃদ্ধ লাইব্রেরি অফার করে। আপনি যতটা চান তত স্ট্রিম করতে পারেন, যখনই চান, কোনো দৈনিক সীমা ছাড়াই।",
+      "q6": "Cinezy কি শিশুদের জন্য নিরাপদ?",
+      "a6p1": "হ্যাঁ — Cinezy-তে শিশুদের জন্য একটি নিবেদিত স্থান রয়েছে যেখানে হাতে বাছাই করা, পরিবার-বান্ধব সামগ্রী রয়েছে।",
+      "a6p2": "আপনি পিতামাতার নিয়ন্ত্রণ এবং পিন-সুরক্ষিত সেটিংস সহ সুরক্ষিত প্রোফাইলও তৈরি করতে পারেন যাতে আপনার শিশুরা কী অ্যাক্সেস করতে পারে বা ব্লক করতে পারে তা পরিচালনা করতে।",
+      "ctaText": "দেখতে আগ্রহী? আপনার সদস্যপদ তৈরি বা পুনরায় শুরু করতে আপনার ইমেল লিখুন।"
+    },
+    "footer": {
+      "queries": "কোনো প্রশ্ন? কল করুন",
+      "links": {
+        "faq": "সাধারণ প্রশ্ন",
+        "supportHub": "সহায়তা কেন্দ্র",
+        "dataProtection": "ডেটা সুরক্ষা",
+        "networkCheck": "নেটওয়ার্ক চেক",
+        "assistanceZone": "সহায়তা অঞ্চল",
+        "opportunities": "সুযোগ",
+        "privacySettings": "গোপনীয়তা সেটিংস",
+        "policyDocuments": "নীতি নথি",
+        "userProfile": "ব্যবহারকারী প্রোফাইল",
+        "viewingOptions": "দেখার বিকল্প",
+        "companyDetails": "কোম্পানির বিবরণ",
+        "exclusiveContent": "এক্সক্লুসিভ সামগ্রী",
+        "pressRoom": "প্রেস রুম",
+        "usageGuidelines": "ব্যবহার নির্দেশিকা",
+        "contactUs": "আমাদের সাথে যোগাযোগ করুন"
+      },
+      "cinezy": "Cinezy ইন্ডিয়া",
+      "recaptcha": "এই পৃষ্ঠাটি Google reCAPTCHA দ্বারা সুরক্ষিত যাতে নিশ্চিত করা যায় যে আপনি বট নন।",
+      "learnMore": "আরও জানুন।"
+    },
+    "auth": {
+      "signInTitle": "সাইন ইন করুন",
+      "signUpTitle": "সাইন আপ করুন",
+      "emailPlaceholder": "ইমেল বা মোবাইল নম্বর",
+      "passwordPlaceholder": "পাসওয়ার্ড",
+      "confirmPasswordPlaceholder": "পাসওয়ার্ড নিশ্চিত করুন",
+      "namePlaceholder": "নাম",
+      "signInButton": "সাইন ইন করুন",
+      "signUpButton": "সাইন আপ করুন",
+      "or": "অথবা",
+      "useSignInCode": "সাইন-ইন কোড ব্যবহার করুন",
+      "forgotPassword": "পাসওয়ার্ড ভুলে গেছেন?",
+      "newToCinezy": "Cinezy তে নতুন?",
+      "signUpNow": "এখনই সাইন আপ করুন।",
+      "alreadyHaveAccount": "ইতিমধ্যে অ্যাকাউন্ট আছে?",
+      "signInLink": "সাইন ইন করুন",
+      "recaptchaInfo": "এই পৃষ্ঠাটি Google reCAPTCHA দ্বারা সুরক্ষিত যাতে নিশ্চিত করা যায় যে আপনি বট নন।",
+      "learnMore": "আরও জানুন।"
+    }
+  },
+  "मराठी": {
+    "nav": {
+      "signIn": "साइन इन करा"
+    },
+    "hero": {
+      "title": "अमर्यादित मालिका, चित्रपट, शो आणि बरेच काही पहा",
+      "subtitle": "₹99 पासून सुरू. कधीही रद्द करा.",
+      "cta": "पाहण्यात स्वारस्य आहे? तुमची सदस्यता तयार करण्यासाठी किंवा पुन्हा सुरू करण्यासाठी तुमचा ईमेल प्रविष्ट करा.",
+      "emailPlaceholder": "तुमचा ईमेल प्रविष्ट करा",
+      "getStarted": "सुरू करा"
+    },
+    "carousel": {
+      "heading": "सध्या ट्रेंडिंग"
+    },
+    "features": {
+      "heading": "सामील होण्याची अधिक कारणे",
+      "feature1Title": "तुमच्या टीव्हीवर स्ट्रीम करा",
+      "feature1Desc": "स्मार्ट टीव्ही, गेमिंग कन्सोल, Chromecast, Apple TV आणि अधिक डिव्हाइसवर शो एन्जॉय करा.",
+      "feature2Title": "ऑफलाइन पाहण्यासाठी शो सेव्ह करा",
+      "feature2Desc": "तुमच्या डिव्हाइसवर एपिसोड डाउनलोड करा आणि पाहण्यासाठी कधीही गोष्टी संपू नका.",
+      "feature3Title": "कोणत्याही स्क्रीनवर पहा",
+      "feature3Desc": "मोबाइल, टॅबलेट, डेस्कटॉप किंवा स्मार्ट टीव्हीवर तुमच्या आवडत्या सामग्रीमध्ये प्रवेश करा.",
+      "feature4Title": "मुलांसाठी योग्य प्रोफाइल",
+      "feature4Desc": "मुलांना त्यांच्यासाठी खास तयार केलेल्या मजेदार जगांचा शोध घेऊ द्या — तुमच्या सदस्यतेसह मोफत समाविष्ट."
+    },
+    "faq": {
+      "heading": "वारंवार विचारले जाणारे प्रश्न",
+      "q1": "Cinezy म्हणजे काय?",
+      "a1p1": "Cinezy हे एक स्ट्रीमिंग प्लॅटफॉर्म आहे जिथे तुम्ही तुमच्या सर्व डिव्हाइसवर टॉप-रेटेड वेब मालिका, चित्रपट, माहितीपट आणि बरेच काही एक्सप्लोर करू शकता.",
+      "a1p2": "तुम्ही कधीही पाहण्यास मोकळे आहात, शून्य जाहिराती आणि व्यत्यय नाहीत — आणि आम्ही नियमितपणे नवीन सामग्री जोडत असतो, म्हणून नेहमी काहीतरी एन्जॉय करायला असते!",
+      "q2": "Cinezy ची किंमत किती आहे?",
+      "a2": "Cinezy स्मार्टफोन, टॅबलेट, लॅपटॉप आणि स्मार्ट टीव्हीवर उपलब्ध आहे — सर्व एका सुसंगत मासिक शुल्कासाठी. योजना ₹99/महिना पासून सुरू होतात, कोणतेही लपलेले शुल्क किंवा बंधनकारक करार नाहीत.",
+      "q3": "मी कुठे पाहू शकतो?",
+      "a3p1": "तुम्ही कुठेही असाल, जेव्हा हवे तेव्हा पहा. तुमच्या ब्राउझर किंवा समर्थित डिव्हाइसद्वारे लॉग इन करा आणि त्वरित पाहणे सुरू करा — तुमचा लॅपटॉप, टीव्ही, टॅबलेट किंवा फोन असो.",
+      "a3p2": "तुम्ही आमच्या Android आणि iOS अॅप्ससह ऑफलाइन पाहण्यासाठी शो सेव्ह देखील करू शकता — म्हणून तुमचे मनोरंजन तुमच्यासोबत प्रवास करते, Wi-Fi शिवाय देखील.",
+      "q4": "मी कसे रद्द करू?",
+      "a4": "Cinezy तुम्हाला पूर्ण स्वातंत्र्य देते. कधीही तुमच्या खात्यातून थेट रद्द करा, थांबवा किंवा पुन्हा सुरू करा — कोणताही दंड नाही, कोणतेही लॉक-इन नाही, कोणतीही अडचण नाही. जेव्हा तुम्हाला हवे तेव्हा बदल करण्यासाठी फक्त काही क्लिक लागतात.",
+      "q5": "मी Cinezy वर काय पाहू शकतो?",
+      "a5": "नाटक ते थ्रिलर, अॅनिमे ते मूळ — Cinezy प्रत्येक शैली आणि मूडमध्ये मनोरंजनाची समृद्ध लायब्ररी ऑफर करते. तुम्ही तुम्हाला हवे तितके स्ट्रीम करू शकता, जेव्हा हवे तेव्हा, कोणत्याही दैनिक मर्यादेशिवाय.",
+      "q6": "Cinezy मुलांसाठी सुरक्षित आहे का?",
+      "a6p1": "होय — Cinezy मध्ये मुलांसाठी हाताने निवडलेल्या, कुटुंब-अनुकूल सामग्रीसह एक समर्पित जागा समाविष्ट आहे.",
+      "a6p2": "तुम्ही पालक नियंत्रणे आणि PIN-संरक्षित सेटिंग्जसह सुरक्षित प्रोफाइल देखील तयार करू शकता जेणेकरून तुमची मुले काय प्रवेश करू शकतात किंवा ब्लॉक करू शकतात ते व्यवस्थापित करा.",
+      "ctaText": "पाहण्यात स्वारस्य आहे? तुमची सदस्यता तयार करण्यासाठी किंवा पुन्हा सुरू करण्यासाठी तुमचा ईमेल प्रविष्ट करा."
+    },
+    "footer": {
+      "queries": "काही प्रश्न? कॉल करा",
+      "links": {
+        "faq": "सामान्य प्रश्न",
+        "supportHub": "सपोर्ट हब",
+        "dataProtection": "डेटा संरक्षण",
+        "networkCheck": "नेटवर्क तपासणी",
+        "assistanceZone": "सहाय्य क्षेत्र",
+        "opportunities": "संधी",
+        "privacySettings": "गोपनीयता सेटिंग्ज",
+        "policyDocuments": "धोरण दस्तऐवज",
+        "userProfile": "वापरकर्ता प्रोफाइल",
+        "viewingOptions": "पाहण्याचे पर्याय",
+        "companyDetails": "कंपनी तपशील",
+        "exclusiveContent": "विशेष सामग्री",
+        "pressRoom": "प्रेस रूम",
+        "usageGuidelines": "वापर मार्गदर्शक तत्त्वे",
+        "contactUs": "आमच्याशी संपर्क साधा"
+      },
+      "cinezy": "Cinezy इंडिया",
+      "recaptcha": "हे पृष्ठ Google reCAPTCHA द्वारे संरक्षित आहे हे सुनिश्चित करण्यासाठी की तुम्ही बॉट नाही आहात.",
+      "learnMore": "अधिक जाणून घ्या."
+    },
+    "auth": {
+      "signInTitle": "साइन इन करा",
+      "signUpTitle": "साइन अप करा",
+      "emailPlaceholder": "ईमेल किंवा मोबाइल नंबर",
+      "passwordPlaceholder": "पासवर्ड",
+      "confirmPasswordPlaceholder": "पासवर्डची पुष्टी करा",
+      "namePlaceholder": "नाव",
+      "signInButton": "साइन इन करा",
+      "signUpButton": "साइन अप करा",
+      "or": "किंवा",
+      "useSignInCode": "साइन-इन कोड वापरा",
+      "forgotPassword": "पासवर्ड विसरलात?",
+      "newToCinezy": "Cinezy वर नवीन आहात?",
+      "signUpNow": "आता साइन अप करा.",
+      "alreadyHaveAccount": "आधीपासूनच खाते आहे?",
+      "signInLink": "साइन इन करा",
+      "recaptchaInfo": "हे पृष्ठ Google reCAPTCHA द्वारे संरक्षित आहे हे सुनिश्चित करण्यासाठी की तुम्ही बॉट नाही आहात.",
+      "learnMore": "अधिक जाणून घ्या."
+    }
+  },
+  "ગુજરાતી": {
+    "nav": {
+      "signIn": "સાઇન ઇન કરો"
+    },
+    "hero": {
+      "title": "અમર્યાદિત શ્રેણી, ફિલ્મો, શો અને વધુ જુઓ",
+      "subtitle": "₹99 થી શરૂ. કોઈપણ સમયે રદ કરો.",
+      "cta": "જોવામાં રસ છે? તમારી સભ્યપદ બનાવવા અથવા ફરી શરૂ કરવા માટે તમારું ઇમેઇલ દાખલ કરો.",
+      "emailPlaceholder": "તમારું ઇમેઇલ દાખલ કરો",
+      "getStarted": "શરૂ કરો"
+    },
+    "carousel": {
+      "heading": "હાલમાં ટ્રેન્ડિંગ"
+    },
+    "features": {
+      "heading": "જોડાવાના વધુ કારણો",
+      "feature1Title": "તમારા ટીવી પર સ્ટ્રીમ કરો",
+      "feature1Desc": "સ્માર્ટ ટીવી, ગેમિંગ કન્સોલ, Chromecast, Apple TV અને વધુ ઉપકરણો પર શો માણો.",
+      "feature2Title": "ઓફલાઇન જોવા માટે શો સાચવો",
+      "feature2Desc": "તમારા ઉપકરણ પર એપિસોડ્સ ડાઉનલોડ કરો અને જોવા માટે વસ્તુઓ ક્યારેય ખતમ ન થાય.",
+      "feature3Title": "કોઈપણ સ્ક્રીન પર જુઓ",
+      "feature3Desc": "મોબાઇલ, ટેબ્લેટ, ડેસ્કટોપ અથવા સ્માર્ટ ટીવી પર તમારી પસંદગીની સામગ્રીને ઍક્સેસ કરો.",
+      "feature4Title": "બાળકો માટે અનુકૂળ પ્રોફાઇલ્સ",
+      "feature4Desc": "બાળકોને તેમના માટે ખાસ બનાવેલી મનોરંજક દુનિયાઓનું અન્વેષણ કરવા દો — તમારી સભ્યપદ સાથે મફતમાં સામેલ."
+    },
+    "faq": {
+      "heading": "વારંવાર પૂછાતા પ્રશ્નો",
+      "q1": "Cinezy શું છે?",
+      "a1p1": "Cinezy એક સ્ટ્રીમિંગ પ્લેટફોર્મ છે જ્યાં તમે તમારા તમામ ઉપકરણો પર ટોપ-રેટેડ વેબ શ્રેણી, ફિલ્મો, દસ્તાવેજી અને વધુનો વિસ્તૃત સંગ્રહ શોધી શકો છો.",
+      "a1p2": "તમે કોઈપણ સમયે જોવા માટે મુક્ત છો, શૂન્ય જાહેરાતો અને કોઈ વિક્ષેપ વિના — અને અમે નિયમિતપણે તાજી સામગ્રી ઉમેરતા રહીએ છીએ, તેથી હંમેશા આનંદ લેવા માટે કંઈક હોય છે!",
+      "q2": "Cinezy ની કિંમત કેટલી છે?",
+      "a2": "Cinezy સ્માર્ટફોન, ટેબ્લેટ, લેપટોપ અને સ્માર્ટ ટીવી પર ઉપલબ્ધ છે — બધા એક સુસંગત માસિક ફી માટે. યોજનાઓ ₹99/મહિનાથી શરૂ થાય છે, કોઈ છુપાયેલ ફી અથવા બંધનકર્તા કરાર વિના.",
+      "q3": "હું ક્યાં જોઈ શકું?",
+      "a3p1": "તમે જ્યાં પણ હો, જ્યારે ઇચ્છો ત્યારે જુઓ. તમારા બ્રાઉઝર અથવા સપોર્ટેડ ડિવાઇસ દ્વારા લોગ ઇન કરો અને તરત જ જોવાનું શરૂ કરો — તમારું લેપટોપ, ટીવી, ટેબ્લેટ અથવા ફોન હોય.",
+      "a3p2": "તમે અમારી Android અને iOS એપ્લિકેશનો સાથે ઓફલાઇન જોવા માટે શો સાચવી પણ શકો છો — તેથી તમારું મનોરંજન તમારી સાથે મુસાફરી કરે છે, Wi-Fi વિના પણ.",
+      "q4": "હું કેવી રીતે રદ કરું?",
+      "a4": "Cinezy તમને સંપૂર્ણ સ્વતંત્રતા આપે છે. કોઈપણ સમયે તમારા એકાઉન્ટમાંથી સીધું રદ કરો, થોભાવો અથવા ફરી શરૂ કરો — કોઈ દંડ નહીં, કોઈ લોક-ઇન નહીં, કોઈ મુશ્કેલી નહીં. જ્યારે તમે ઇચ્છો ત્યારે ફેરફારો કરવા માટે માત્ર થોડી ક્લિક્સ લે છે.",
+      "q5": "હું Cinezy પર શું જોઈ શકું?",
+      "a5": "નાટકથી થ્રિલર સુધી, એનાઇમથી મૂળ સુધી — Cinezy દરેક શૈલી અને મૂડમાં મનોરંજનની સમૃદ્ધ લાઇબ્રેરી ઓફર કરે છે. તમે ગમે તેટલું સ્ટ્રીમ કરી શકો છો, જ્યારે ઇચ્છો ત્યારે, કોઈ દૈનિક મર્યાદા વિના.",
+      "q6": "શું Cinezy બાળકો માટે સુરક્ષિત છે?",
+      "a6p1": "હા — Cinezy બાળકો માટે હાથથી પસંદ કરેલી, કુટુંબ-અનુકૂળ સામગ્રી સાથે એક સમર્પિત જગ્યા સામેલ કરે છે.",
+      "a6p2": "તમે પેરેન્ટલ નિયંત્રણો અને PIN-સુરક્ષિત સેટિંગ્સ સાથે સુરક્ષિત પ્રોફાઇલ્સ પણ બનાવી શકો છો તમારા બાળકો શું ઍક્સેસ કરી શકે છે અથવા બ્લોક કરી શકે છે તેનું સંચાલન કરવા.",
+      "ctaText": "જોવામાં રસ છે? તમારી સભ્યપદ બનાવવા અથવા ફરી શરૂ કરવા માટે તમારું ઇમેઇલ દાખલ કરો."
+    },
+    "footer": {
+      "queries": "કોઈ પ્રશ્નો? કોલ કરો",
+      "links": {
+        "faq": "સામાન્ય પ્રશ્નો",
+        "supportHub": "સપોર્ટ હબ",
+        "dataProtection": "ડેટા સુરક્ષા",
+        "networkCheck": "નેટવર્ક ચેક",
+        "assistanceZone": "સહાયતા ઝોન",
+        "opportunities": "તકો",
+        "privacySettings": "ગોપનીયતા સેટિંગ્સ",
+        "policyDocuments": "નીતિ દસ્તાવેજો",
+        "userProfile": "વપરાશકર્તા પ્રોફાઇલ",
+        "viewingOptions": "જોવાના વિકલ્પો",
+        "companyDetails": "કંપની વિગતો",
+        "exclusiveContent": "વિશિષ્ટ સામગ્રી",
+        "pressRoom": "પ્રેસ રૂમ",
+        "usageGuidelines": "ઉપયોગ માર્ગદર્શિકા",
+        "contactUs": "અમારો સંપર્ક કરો"
+      },
+      "cinezy": "Cinezy ઇન્ડિયા",
+      "recaptcha": "આ પૃષ્ઠ Google reCAPTCHA દ્વારા સુરક્ષિત છે તેની ખાતરી કરવા માટે કે તમે બોટ નથી.",
+      "learnMore": "વધુ જાણો."
+    },
+    "auth": {
+      "signInTitle": "સાઇન ઇન કરો",
+      "signUpTitle": "સાઇન અપ કરો",
+      "emailPlaceholder": "ઇમેઇલ અથવા મોબાઇલ નંબર",
+      "passwordPlaceholder": "પાસવર્ડ",
+      "confirmPasswordPlaceholder": "પાસવર્ડની પુષ્ટિ કરો",
+      "namePlaceholder": "નામ",
+      "signInButton": "સાઇન ઇન કરો",
+      "signUpButton": "સાઇન અપ કરો",
+      "or": "અથવા",
+      "useSignInCode": "સાઇન-ઇન કોડનો ઉપયોગ કરો",
+      "forgotPassword": "પાસવર્ડ ભૂલીગયા?",
+      "newToCinezy": "Cinezy પર નવા છો?",
+      "signUpNow": "હમણાં સાઇન અપ કરો.",
+      "alreadyHaveAccount": "પહેલાથી જ એકાઉન્ટ છે?",
+      "signInLink": "સાઇન ઇન કરો",
+      "recaptchaInfo": "આ પૃષ્ઠ Google reCAPTCHA દ્વારા સુરક્ષિત છે તેની ખાતરી કરવા માટે કે તમે બોટ નથી.",
+      "learnMore": "વધુ જાણો."
+    }
+  },
+  "ਪੰਜਾਬੀ": {
+    "nav": {
+      "signIn": "ਸਾਈਨ ਇਨ ਕਰੋ"
+    },
+    "hero": {
+      "title": "ਬੇਅੰਤ ਸੀਰੀਜ਼, ਫਿਲਮਾਂ, ਸ਼ੋਅ ਅਤੇ ਹੋਰ ਬਹੁਤ ਕੁਝ ਦੇਖੋ",
+      "subtitle": "₹99 ਤੋਂ ਸ਼ੁਰੂ। ਕਿਸੇ ਵੀ ਸਮੇਂ ਰੱਦ ਕਰੋ।",
+      "cta": "ਦੇਖਣ ਵਿੱਚ ਦਿਲਚਸਪੀ ਹੈ? ਆਪਣੀ ਮੈਂਬਰਸ਼ਿਪ ਬਣਾਉਣ ਜਾਂ ਦੁਬਾਰਾ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਆਪਣਾ ਈਮੇਲ ਦਾਖਲ ਕਰੋ।",
+      "emailPlaceholder": "ਆਪਣਾ ਈਮੇਲ ਦਾਖਲ ਕਰੋ",
+      "getStarted": "ਸ਼ੁਰੂ ਕਰੋ"
+    },
+    "carousel": {
+      "heading": "ਇਸ ਵੇਲੇ ਟ੍ਰੈਂਡਿੰਗ"
+    },
+    "features": {
+      "heading": "ਸ਼ਾਮਲ ਹੋਣ ਦੇ ਹੋਰ ਕਾਰਨ",
+      "feature1Title": "ਆਪਣੇ ਟੀਵੀ ਤੇ ਸਟ੍ਰੀਮ ਕਰੋ",
+      "feature1Desc": "ਸਮਾਰਟ ਟੀਵੀ, ਗੇਮਿੰਗ ਕੰਸੋਲ, Chromecast, Apple TV ਅਤੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੇ ਸ਼ੋਅ ਦਾ ਆਨੰਦ ਲਓ।",
+      "feature2Title": "ਔਫਲਾਈਨ ਦੇਖਣ ਲਈ ਸ਼ੋਅ ਸੇਵ ਕਰੋ",
+      "feature2Desc": "ਆਪਣੀ ਡਿਵਾਈਸ ਤੇ ਐਪੀਸੋਡ ਡਾਊਨਲੋਡ ਕਰੋ ਅਤੇ ਦੇਖਣ ਲਈ ਚੀਜ਼ਾਂ ਕਦੇ ਖਤਮ ਨਾ ਹੋਣ।",
+      "feature3Title": "ਕਿਸੇ ਵੀ ਸਕ੍ਰੀਨ ਤੇ ਦੇਖੋ",
+      "feature3Desc": "ਮੋਬਾਈਲ, ਟੈਬਲੇਟ, ਡੈਸਕਟੌਪ ਜਾਂ ਸਮਾਰਟ ਟੀਵੀ ਤੇ ਆਪਣੀ ਮਨਪਸੰਦ ਸਮੱਗਰੀ ਨੂੰ ਐਕਸੈਸ ਕਰੋ।",
+      "feature4Title": "ਬੱਚਿਆਂ ਲਈ ਅਨੁਕੂਲ ਪ੍ਰੋਫਾਈਲ",
+      "feature4Desc": "ਬੱਚਿਆਂ ਨੂੰ ਉਹਨਾਂ ਲਈ ਖਾਸ ਬਣਾਈਆਂ ਮਜ਼ੇਦਾਰ ਦੁਨੀਆਵਾਂ ਦੀ ਖੋਜ ਕਰਨ ਦਿਓ — ਤੁਹਾਡੀ ਮੈਂਬਰਸ਼ਿਪ ਨਾਲ ਮੁਫਤ ਵਿੱਚ ਸ਼ਾਮਲ।"
+    },
+    "faq": {
+      "heading": "ਅਕਸਰ ਪੁੱਛੇ ਜਾਣ ਵਾਲੇ ਸਵਾਲ",
+      "q1": "Cinezy ਕੀ ਹੈ?",
+      "a1p1": "Cinezy ਇੱਕ ਸਟ੍ਰੀਮਿੰਗ ਪਲੇਟਫਾਰਮ ਹੈ ਜਿੱਥੇ ਤੁਸੀਂ ਆਪਣੀਆਂ ਸਾਰੀਆਂ ਡਿਵਾਈਸਾਂ ਤੇ ਉੱਚ-ਦਰਜਾ ਵੈਬ ਸੀਰੀਜ਼, ਫਿਲਮਾਂ, ਦਸਤਾਵੇਜ਼ੀ ਅਤੇ ਹੋਰ ਬਹੁਤ ਕੁਝ ਦੇ ਵਿਸ਼ਾਲ ਸੰਗ੍ਰਹਿ ਦੀ ਪੜਚੋਲ ਕਰ ਸਕਦੇ ਹੋ।",
+      "a1p2": "ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਸਮੇਂ ਦੇਖਣ ਲਈ ਆਜ਼ਾਦ ਹੋ, ਜ਼ੀਰੋ ਵਿਗਿਆਪਨ ਅਤੇ ਕੋਈ ਰੁਕਾਵਟ ਨਹੀਂ — ਅਤੇ ਅਸੀਂ ਨਿਯਮਿਤ ਤੌਰ 'ਤੇ ਤਾਜ਼ੀ ਸਮੱਗਰੀ ਸ਼ਾਮਲ ਕਰਦੇ ਰਹਿੰਦੇ ਹਾਂ, ਇਸ ਲਈ ਹਮੇਸ਼ਾ ਮਨੋਰੰਜਨ ਲਈ ਕੁਝ ਨਾ ਕੁਝ ਹੈ!",
+      "q2": "Cinezy ਦੀ ਕੀਮਤ ਕਿੰਨੀ ਹੈ?",
+      "a2": "Cinezy ਸਮਾਰਟਫੋਨ, ਟੈਬਲੇਟ, ਲੈਪਟਾਪ ਅਤੇ ਸਮਾਰਟ ਟੀਵੀ ਤੇ ਉਪਲਬਧ ਹੈ — ਸਭ ਇੱਕ ਸੁਸੰਗਤ ਮਾਸਿਕ ਫੀਸ ਲਈ। ਯੋਜਨਾਵਾਂ ₹99/ਮਹੀਨਾ ਤੋਂ ਸ਼ੁਰੂ ਹੁੰਦੀਆਂ ਹਨ, ਕੋਈ ਛੁਪੀ ਫੀਸ ਜਾਂ ਬੰਧਨਕਾਰੀ ਸਮਝੌਤੇ ਨਹੀਂ।",
+      "q3": "ਮੈਂ ਕਿੱਥੇ ਦੇਖ ਸਕਦਾ ਹਾਂ?",
+      "a3p1": "ਤੁਸੀਂ ਕਿਥੇ ਵੀ ਹੋ, ਜਦੋਂ ਚਾਹੋ ਦੇਖੋ। ਆਪਣੇ ਬ੍ਰਾਊਜ਼ਰ ਜਾਂ ਸਮਰਥਿਤ ਡਿਵਾਈਸ ਰਾਹੀਂ ਲੌਗ ਇਨ ਕਰੋ ਅਤੇ ਤੁਰੰਤ ਦੇਖਣਾ ਸ਼ੁਰੂ ਕਰੋ — ਭਾਵੇਂ ਤੁਹਾਡਾ ਲੈਪਟਾਪ, ਟੀਵੀ, ਟੈਬਲੇਟ ਜਾਂ ਫੋਨ ਹੋਵੇ।",
+      "a3p2": "ਤੁਸੀਂ ਸਾਡੀਆਂ Android ਅਤੇ iOS ਐਪਸ ਨਾਲ ਔਫਲਾਈਨ ਦੇਖਣ ਲਈ ਸ਼ੋਅ ਵੀ ਸੇਵ ਕਰ ਸਕਦੇ ਹੋ — ਇਸ ਲਈ ਤੁਹਾਡਾ ਮਨੋਰੰਜਨ ਤੁਹਾਡੇ ਨਾਲ ਯਾਤਰਾ ਕਰਦਾ ਹੈ, ਭਾਵੇਂ Wi-Fi ਤੋਂ ਬਿਨਾਂ।",
+      "q4": "ਮੈਂ ਕਿਵੇਂ ਰੱਦ ਕਰਾਂ?",
+      "a4": "Cinezy ਤੁਹਾਨੂੰ ਪੂਰੀ ਆਜ਼ਾਦੀ ਦਿੰਦਾ ਹੈ। ਕਿਸੇ ਵੀ ਸਮੇਂ ਆਪਣੇ ਖਾਤੇ ਤੋਂ ਸਿੱਧੇ ਰੱਦ ਕਰੋ, ਰੋਕੋ ਜਾਂ ਦੁਬਾਰਾ ਸ਼ੁਰੂ ਕਰੋ — ਕੋਈ ਜੁਰਮਾਨਾ ਨਹੀਂ, ਕੋਈ ਲੌਕ-ਇਨ ਨਹੀਂ, ਕੋਈ ਪਰੇਸ਼ਾਨੀ ਨਹੀਂ। ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਚਾਹੋ ਤਬਦੀਲੀਆਂ ਕਰਨ ਲਈ ਸਿਰਫ ਕੁਝ ਕਲਿਕਾਂ ਦੀ ਲੋੜ ਹੈ।",
+      "q5": "ਮੈਂ Cinezy ਤੇ ਕੀ ਦੇਖ ਸਕਦਾ ਹਾਂ?",
+      "a5": "ਡਰਾਮੇ ਤੋਂ ਥ੍ਰਿਲਰ ਤੱਕ, ਐਨੀਮੇ ਤੋਂ ਮੂਲ ਤੱਕ — Cinezy ਹਰ ਸ਼ੈਲੀ ਅਤੇ ਮੂਡ ਵਿੱਚ ਮਨੋਰੰਜਨ ਦੀ ਇੱਕ ਸਮ੍ਰਿੱਧ ਲਾਇਬ੍ਰੇਰੀ ਪੇਸ਼ ਕਰਦਾ ਹੈ। ਤੁਸੀਂ ਜਿੰਨਾ ਚਾਹੋ ਸਟ੍ਰੀਮ ਕਰ ਸਕਦੇ ਹੋ, ਜਦੋਂ ਵੀ ਚਾਹੋ, ਬਿਨਾਂ ਕਿਸੇ ਰੋਜ਼ਾਨਾ ਸੀਮਾ ਦੇ।",
+      "q6": "ਕੀ Cinezy ਬੱਚਿਆਂ ਲਈ ਸੁਰੱਖਿਅਤ ਹੈ?",
+      "a6p1": "ਹਾਂ — Cinezy ਵਿੱਚ ਬੱਚਿਆਂ ਲਈ ਹੱਥੀਂ ਚੁਣੀ ਹੋਈ, ਪਰਿਵਾਰ-ਅਨੁਕੂਲ ਸਮੱਗਰੀ ਨਾਲ ਇੱਕ ਸਮਰਪਿਤ ਥਾਂ ਸ਼ਾਮਲ ਹੈ।",
+      "a6p2": "ਤੁਸੀਂ ਪੈਰੈਂਟਲ ਕੰਟਰੋਲ ਅਤੇ PIN-ਸੁਰੱਖਿਅਤ ਸੈਟਿੰਗਾਂ ਨਾਲ ਸੁਰੱਖਿਅਤ ਪ੍ਰੋਫਾਈਲ ਵੀ ਬਣਾ ਸਕਦੇ ਹੋ ਤਾਂ ਜੋ ਤੁਹਾਡੇ ਬੱਚੇ ਕੀ ਐਕਸੈਸ ਕਰ ਸਕਦੇ ਹਨ ਜਾਂ ਬਲੌਕ ਕਰ ਸਕਦੇ ਹਨ, ਇਸ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰ ਸਕੋ।",
+      "ctaText": "ਦੇਖਣ ਵਿੱਚ ਦਿਲਚਸਪੀ ਹੈ? ਆਪਣੀ ਮੈਂਬਰਸ਼ਿਪ ਬਣਾਉਣ ਜਾਂ ਦੁਬਾਰਾ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਆਪਣਾ ਈਮੇਲ ਦਾਖਲ ਕਰੋ।"
+    },
+    "footer": {
+      "queries": "ਕੋਈ ਸਵਾਲ? ਕਾਲ ਕਰੋ",
+      "links": {
+        "faq": "ਆਮ ਸਵਾਲ",
+        "supportHub": "ਸਹਾਇਤਾ ਹੱਬ",
+        "dataProtection": "ਡੇਟਾ ਸੁਰੱਖਿਆ",
+        "networkCheck": "ਨੈੱਟਵਰਕ ਚੈਕ",
+        "assistanceZone": "ਸਹਾਇਤਾ ਖੇਤਰ",
+        "opportunities": "ਮੌਕੇ",
+        "privacySettings": "ਗੋਪਨੀਯਤਾ ਸੈਟਿੰਗਾਂ",
+        "policyDocuments": "ਨੀਤੀ ਦਸਤਾਵੇਜ਼",
+        "userProfile": "ਉਪਭੋਗਤਾ ਪ੍ਰੋਫਾਈਲ",
+        "viewingOptions": "ਦੇਖਣ ਦੇ ਵਿਕਲਪ",
+        "companyDetails": "ਕੰਪਨੀ ਵੇਰਵੇ",
+        "exclusiveContent": "ਵਿਸ਼ੇਸ਼ ਸਮੱਗਰੀ",
+        "pressRoom": "ਪ੍ਰੈਸ ਰੂਮ",
+        "usageGuidelines": "ਵਰਤੋਂ ਦਿਸ਼ਾ-ਨਿਰਦੇਸ਼",
+        "contactUs": "ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ"
+      },
+      "cinezy": "Cinezy ਇੰਡੀਆ",
+      "recaptcha": "ਇਹ ਪੰਨਾ Google reCAPTCHA ਦੁਆਰਾ ਸੁਰੱਖਿਅਤ ਹੈ ਤਾਂ ਜੋ ਇਹ ਯਕੀਨੀ ਬਣਾਇਆ ਜਾ ਸਕੇ ਕਿ ਤੁਸੀਂ ਬੌਟ ਨਹੀਂ ਹੋ।",
+      "learnMore": "ਹੋਰ ਜਾਣੋ।"
+    },
+    "auth": {
+      "signInTitle": "ਸਾਈਨ ਇਨ ਕਰੋ",
+      "signUpTitle": "ਸਾਈਨ ਅਪ ਕਰੋ",
+      "emailPlaceholder": "ਈਮੇਲ ਜਾਂ ਮੋਬਾਈਲ ਨੰਬਰ",
+      "passwordPlaceholder": "ਪਾਸਵਰਡ",
+      "confirmPasswordPlaceholder": "ਪਾਸਵਰਡ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
+      "namePlaceholder": "ਨਾਮ",
+      "signInButton": "ਸਾਈਨ ਇਨ ਕਰੋ",
+      "signUpButton": "ਸਾਈਨ ਅਪ ਕਰੋ",
+      "or": "ਜਾਂ",
+      "useSignInCode": "ਸਾਈਨ-ਇਨ ਕੋਡ ਵਰਤੋ",
+      "forgotPassword": "ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ?",
+      "newToCinezy": "Cinezy ਤੇ ਨਵੇਂ ਹੋ?",
+      "signUpNow": "ਹੁਣੇ ਸਾਈਨ ਅਪ ਕਰੋ।",
+      "alreadyHaveAccount": "ਪਹਿਲਾਂ ਤੋਂ ਖਾਤਾ ਹੈ?",
+      "signInLink": "ਸਾਈਨ ਇਨ ਕਰੋ",
+      "recaptchaInfo": "ਇਹ ਪੰਨਾ Google reCAPTCHA ਦੁਆਰਾ ਸੁਰੱਖਿਅਤ ਹੈ ਤਾਂ ਜੋ ਇਹ ਯਕੀਨੀ ਬਣਾਇਆ ਜਾ ਸਕੇ ਕਿ ਤੁਸੀਂ ਬੌਟ ਨਹੀਂ ਹੋ।",
+      "learnMore": "ਹੋਰ ਜਾਣੋ।"
+    }
+  }
+}
